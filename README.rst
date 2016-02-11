@@ -4,8 +4,9 @@
 IBL015747  is an annotation package for Agilent-013223 D. rerio (Zebrafish) Oligo Microarray G2518A Option 001
 
 
-.. _manufacturerUrl: http://www.agilent.com
-.. _data source: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL7735
+* manufacturerUrl: http://www.agilent.com
+* data source: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL7735
+
 
 Library used to build the annotation DB
 --------------------------------------
